@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ad9e1e40-aff4-4ae8-940c-53b5aebcc105" name="YABS" url="http://194.226.180.68">
+        <fileTransfer host="194.226.180.68" port="22165" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22165" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

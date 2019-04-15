@@ -1,0 +1,791 @@
+POST http://delta.rarus-crimea.ru/adding/status
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="status"
+
+0
+--WebAppBoundary--
+
+<> 2019-04-15T045226.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/status
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="status"
+
+1
+--WebAppBoundary--
+
+<> 2019-04-15T045205.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/status
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="status"
+
+inactive
+--WebAppBoundary--
+
+<> 2019-04-15T044949.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/status
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="status"
+
+inactive
+--WebAppBoundary--
+
+<> 2019-04-15T044048.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/status
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="status"
+
+inactive
+--WebAppBoundary--
+
+<> 2019-04-15T044025.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/status
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="status"
+
+inactive
+--WebAppBoundary--
+
+<> 2019-04-15T044005.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/status
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="status"
+
+inactive
+--WebAppBoundary--
+
+<> 2019-04-15T043953.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/percentage
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="percentage"
+
+5.05
+--WebAppBoundary--
+
+<> 2019-04-15T043739.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/percentage
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="percentage"
+
+5.05
+--WebAppBoundary--
+
+<> 2019-04-15T042728.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/percentage
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="percentage"
+
+5.05
+--WebAppBoundary--
+
+<> 2019-04-15T042459.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/percentage
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="percentage"
+
+5.05
+--WebAppBoundary--
+
+<> 2019-04-15T042326.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/percentage
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="percentage"
+
+5.05
+--WebAppBoundary--
+
+<> 2019-04-15T042008.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/percentage
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="percentage"
+
+5.05
+--WebAppBoundary--
+
+<> 2019-04-15T041939.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/percentage
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="percentage"
+
+5.05
+--WebAppBoundary--
+
+<> 2019-04-15T041744.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/percentage
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5815398558405300
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="percentage"
+
+5.00
+--WebAppBoundary--
+
+<> 2019-04-15T041637.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerKrasnodar
+--WebAppBoundary--
+
+<> 2019-04-15T034636.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerKrasnodar
+--WebAppBoundary--
+
+<> 2019-04-15T033805.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/cards/5815398558405300/&identifier=numberCards
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033732.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/cards
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033730.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/turnover/3
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033558.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/turnover
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033555.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/status/3
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033537.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/status
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033532.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/percentage/3
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033515.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/percentage
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033507.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/operators/3
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033447.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/operators
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033445.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/holidays/3
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033429.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/holidays
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033426.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/cards/5815398558405300/&identifier=numberCards
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033407.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/cards
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033402.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/bonus/3
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033321.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/bonus
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T033316.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/registration
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Фролов Алексей Викторович
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+79780010010
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+mane
+--WebAppBoundary
+Content-Disposition: form-data; name="passwordKey"
+
+11115556
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+04
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+10
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
+--WebAppBoundary--
+
+<> 2019-04-15T033239.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/registration
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Фролов Алексей Викторович
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+79780010010
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+mane
+--WebAppBoundary
+Content-Disposition: form-data; name="passwordKey"
+
+11115556
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+04
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+10
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
+--WebAppBoundary--
+
+<> 2019-04-15T033223.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operations
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="scopeOperation"
+
+53632
+--WebAppBoundary
+Content-Disposition: form-data; name="bonusAmount"
+
+2322
+--WebAppBoundary
+Content-Disposition: form-data; name="bonusProgram"
+
+bonus
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+numberCards
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+5807474293123606
+--WebAppBoundary
+Content-Disposition: form-data; name="passwordKey"
+
+11115556
+--WebAppBoundary--
+
+<> 2019-04-15T033106.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/holidays
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="date"
+
+29-10-2019
+--WebAppBoundary
+Content-Disposition: form-data; name="name"
+
+День открытых дверей
+--WebAppBoundary
+Content-Disposition: form-data; name="discountRate"
+
+1.2
+--WebAppBoundary
+Content-Disposition: form-data; name="passwordKey"
+
+11115556
+--WebAppBoundary--
+
+<> 2019-04-15T033052.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/bonus
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="turnoverLevel"
+
+300000.00
+--WebAppBoundary
+Content-Disposition: form-data; name="bonusAmountTable"
+
+30
+--WebAppBoundary
+Content-Disposition: form-data; name="passwordKey"
+
+11115556
+--WebAppBoundary--
+
+<> 2019-04-15T033041.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerKrasnodar
+--WebAppBoundary--
+
+<> 2019-04-15T032755.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerStPetersburg
+--WebAppBoundary--
+
+<> 2019-04-15T032656.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerSevastopol
+--WebAppBoundary--
+
+<> 2019-04-15T032154.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerSevastopol
+--WebAppBoundary--
+
+<> 2019-04-15T032144.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerSevastopol
+--WebAppBoundary--
+
+<> 2019-04-15T032038.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerSevastopol
+--WebAppBoundary--
+
+<> 2019-04-15T031936.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerSevastopol
+--WebAppBoundary--
+
+<> 2019-04-15T031745.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/cards&passwordKey=11115556
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Accept: application/json
+
+<> 2019-04-15T030452.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/operators
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="nameOperators"
+
+managerMoscow
+--WebAppBoundary
+Content-Disposition: form-data; name="passwordKey"
+
+6723734
+--WebAppBoundary--
+
+<> 2019-04-15T030105.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/cards&passwordKey=11115556
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Accept: application/json
+
+<> 2019-04-15T025847.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/cards&passwordKey=11115556
+Authorization: Basic NTU4MTU0MjgyNTk5NTcxMg==
+Accept: application/json
+
+<> 2019-04-15T025813.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/show/cards&passwordKey=11115556
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Accept: application/json
+
+<> 2019-04-15T025605.200.html
+
+###
+

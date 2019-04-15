@@ -5,43 +5,27 @@
 # * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
-GET http://delta.rarus-crimea.ru/api/json/get?operatorsId=1&cardsId=10&scopeOperation=2435.54&bonusAmount=100&bonusProgram=bonus
-Authorization: Basic Nik 142352
-Content-Type: application/json
-
-###
-
-POST http://delta.rarus-crimea.ru/api/
+POST http://delta.rarus-crimea.ru/adding/bonus
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="operatorsId"
+Content-Disposition: form-data; name="turnoverLevel"
 
-1
+300000.00
 --WebAppBoundary--
 
 --WebAppBoundary
-Content-Disposition: form-data; name="cardsId"
+Content-Disposition: form-data; name="bonusAmountTable"
 
-10
+30
 --WebAppBoundary--
 
 --WebAppBoundary
-Content-Disposition: form-data; name="scopeOperation"
+Content-Disposition: form-data; name="passwordKey"
 
-10555.56
---WebAppBoundary--
+11115556
 
---WebAppBoundary
-Content-Disposition: form-data; name="bonusAmount"
-
-100000
---WebAppBoundary--
-
---WebAppBoundary
-Content-Disposition: form-data; name="bonusProgram"
-
-bonus
 --WebAppBoundary--
 
 ###
