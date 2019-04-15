@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44c6c2ac-f692-4f82-b294-2f61b15c7f04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addOperations.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="44c6c2ac-f692-4f82-b294-2f61b15c7f04" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -206,11 +202,6 @@
               <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
               <item name="YABS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YABS" type="462c0819:PsiDirectoryNode" />
-              <item name="httpRequests" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -221,6 +212,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/variousFiles/YABS8.sql" />
@@ -1233,12 +1225,12 @@
       <workItem from="1554894041556" duration="14258000" />
       <workItem from="1554962684314" duration="29919000" />
       <workItem from="1555049060348" duration="27523000" />
-      <workItem from="1555308342924" duration="28880000" />
+      <workItem from="1555308342924" duration="29163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106977000" />
+    <option name="totallyTimeSpent" value="107260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
