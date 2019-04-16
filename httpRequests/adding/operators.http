@@ -6,15 +6,19 @@
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
 POST http://delta.rarus-crimea.ru/adding/operators
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+Authorization: Basic 0JHQvtGA0LjRgdC+0LIg0JTQsNC90LjRjdC70Ywg0JLQuNC60YLQvtGA0L7QstC40Yc6MzY4MDEwOA==
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
 Content-Disposition: form-data; name="nameOperators"
 
-managerKrasnodar
+Борисов Даниэль Алексеевич
 --WebAppBoundary--
 
+--WebAppBoundary
+Content-Disposition: form-data; name="accessLevel"
 
+менеджер
+--WebAppBoundary--
 
 ###

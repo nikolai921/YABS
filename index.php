@@ -41,9 +41,10 @@ $operationParameters = [
     'discountRate' => $_REQUEST['discountRate'],
     'nameOperators' => $_REQUEST['nameOperators'],
     'percentage' => $_REQUEST['percentage'],
-    'status' => $_REQUEST['status']
+    'status' => $_REQUEST['status'],
+    'accessLevel' => $_REQUEST['accessLevel']
 ];
-print_r($operationParameters);
+print_r($_GET);
 
 
 $authorizationOperator = operatorAuthorization($link);

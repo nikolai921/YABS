@@ -5,39 +5,17 @@
 # * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
-
-POST http://delta.rarus-crimea.ru/adding/operations
+POST http://delta.rarus-crimea.ru/adding/noCardsOperations
 Authorization: Basic 0JXQu9C40YHQtdC10LIg0JPQu9C10LEg0KHQtdGA0LPQtdC10LLQuNGHOjEzNzQ1NjM=
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
 Content-Disposition: form-data; name="scopeOperation"
 
-53632
+1274.49
 --WebAppBoundary--
 
---WebAppBoundary
-Content-Disposition: form-data; name="bonusAmount"
 
-2322
---WebAppBoundary--
 
---WebAppBoundary
-Content-Disposition: form-data; name="bonusProgram"
-
-bonus
---WebAppBoundary--
-
---WebAppBoundary
-Content-Disposition: form-data; name="identifier"
-
-numberCards
---WebAppBoundary--
-
---WebAppBoundary
-Content-Disposition: form-data; name="number"
-
-5807474293123606
---WebAppBoundary--
 
 ###

@@ -51,10 +51,43 @@ SQL;
         if(!empty($dataOperators))
         {
             $operatorsId = $dataOperators['id'];
+            $operatorsAccessLevel = $dataOperators['accessLevel'];
         } else
         {
             throw new InvalidArgumentException('Оператор не найден, ключ авторизации указан неверно');
         }
+
+        $access = $_GET['function'];
+
+        if($operatorsAccessLevel === 'менеджер')
+        {
+            if($access === 'adding/operations')
+            {
+                throw new InvalidArgumentException('Нет прав доступа к этому запросу');
+            }
+
+        }
+
+        if($operatorsAccessLevel === 'кассир')
+        {
+            if($access !== 'adding/operations' && $access !== 'adding/noCardsOperations')
+            {
+                throw new InvalidArgumentException('Нет прав доступа к этому запросу');
+            }
+
+        }
+
+        if($operatorsAccessLevel === 'клиент')
+        {
+            $restriction = preg_match('#^show/cards/.*$#', $access);
+
+            if($restriction === 0)
+            {
+                throw new InvalidArgumentException('Нет прав доступа к этому запросу');
+            }
+
+        }
+
 
     } else
     {

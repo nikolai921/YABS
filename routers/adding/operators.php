@@ -3,6 +3,7 @@
 function route(array $operationParameters, $link, string $method) : string
 {
     $nameOperators = mysqli_real_escape_string($link, $operationParameters['nameOperators']);
+    $accessLevel = mysqli_real_escape_string($link, $operationParameters['accessLevel']);
 
     $selectOperators = <<< SQL
     SELECT * 
@@ -18,8 +19,8 @@ SQL;
         $hashKey = base64_encode($nameOperators . ':' .$unique_key);
 
         $insertHashKey = <<< SQL
-        INSERT INTO operators (name, unique_key, hashKey)
-        VALUES ('$nameOperators', '$unique_key', '$hashKey')
+        INSERT INTO operators (name, accessLevel, unique_key, hashKey)
+        VALUES ('$nameOperators', '$accessLevel', '$unique_key', '$hashKey')
 SQL;
         $result = mysqli_query($link, $insertHashKey) or die(mysqli_error($link));
 
