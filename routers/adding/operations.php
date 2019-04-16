@@ -162,12 +162,12 @@ SQL;
 
         // Таблица cards
 
-        $insertCards = <<< SQL
+        $updateCards = <<< SQL
     UPDATE cards 
     SET balance='$balanceNew', discount='$discount', turnover='$turnoverNew' 
     WHERE id = '$cardsId'
 SQL;
-        $result = mysqli_query($link, $insertCards) or die(mysqli_error($link));
+        $result = mysqli_query($link, $updateCards) or die(mysqli_error($link));
     } else {
         throw new InvalidArgumentException('Статус карты: "Не активна"');
     }

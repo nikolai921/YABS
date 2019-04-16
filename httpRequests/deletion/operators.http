@@ -5,13 +5,13 @@
 # * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
-GET http://delta.rarus-crimea.ru/deletion/bonus
+GET http://delta.rarus-crimea.ru/deletion/operators
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Accept: application/json
 
 ###
 
-GET http://delta.rarus-crimea.ru/deletion/bonus/6
+GET http://delta.rarus-crimea.ru/deletion/operators/5
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Accept: application/json
 

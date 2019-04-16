@@ -7,18 +7,19 @@ function route(array $operationParameters, $link, string $method): string
     if (!empty($id)) {
         $selectBonus = <<<SQL
         DELETE
-        FROM bonus_rules
+        FROM percentage_changes
         WHERE id='$id'
 SQL;
     } else {
         $selectBonus = <<<SQL
         DELETE
-        FROM bonus_rules
+        FROM percentage_changes
         WHERE id > 0
 SQL;
     }
 
     $resultBonus = mysqli_query($link, $selectBonus) or die(mysqli_error($link));
+
 
     return json_encode([
         'method' => $method,

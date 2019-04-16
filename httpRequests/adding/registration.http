@@ -28,12 +28,6 @@ mane
 --WebAppBoundary--
 
 --WebAppBoundary
-Content-Disposition: form-data; name="passwordKey"
-
-11115556
---WebAppBoundary--
-
---WebAppBoundary
 Content-Disposition: form-data; name="birthdayDay"
 
 04

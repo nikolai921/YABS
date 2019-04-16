@@ -10,7 +10,7 @@ function route(array $operationParameters, $link, string $method) : string
     $birthdayMonth = mysqli_real_escape_string($link, $operationParameters['birthdayMonth']);
     $birthdayYear = mysqli_real_escape_string($link, $operationParameters['birthdayYear']);
 
-    if(empty($birthdayYear))
+    if(!empty($birthdayYear))
     {
         $birthday = $birthdayYear . '-' . $birthdayMonth . '-' . $birthdayDay;
     } else
@@ -21,7 +21,7 @@ function route(array $operationParameters, $link, string $method) : string
     $number = mt_rand(1000,9999) . mt_rand(1000,9999) . mt_rand(1000,9999) . mt_rand(1000,9999);
 
     $insertPercentage = <<< SQL
-        INSERT INTO cards (owner, telephone, human_sex, birthday, operators_id, number)
+        INSERT INTO cards (owner, telephone, humanSex, birthday, operators_id, number)
         VALUES ('$owner', '$telephone', '$humanSex', '$birthday', '$operatorsId', '$number')
 SQL;
     $result = mysqli_query($link, $insertPercentage) or die(mysqli_error($link));

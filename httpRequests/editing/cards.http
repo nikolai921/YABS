@@ -5,39 +5,56 @@
 # * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
-
-POST http://delta.rarus-crimea.ru/adding/operations
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="scopeOperation"
-
-53632
---WebAppBoundary--
-
---WebAppBoundary
-Content-Disposition: form-data; name="bonusAmount"
-
-2322
---WebAppBoundary--
-
---WebAppBoundary
-Content-Disposition: form-data; name="bonusProgram"
-
-bonus
---WebAppBoundary--
-
---WebAppBoundary
 Content-Disposition: form-data; name="identifier"
 
-numberCards
+telephone
 --WebAppBoundary--
 
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5807474293123606
+343
 --WebAppBoundary--
+
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary--
+
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary--
+
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary--
+
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary--
+
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
+--WebAppBoundary--
+
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
+--WebAppBoundary--
+
 
 ###

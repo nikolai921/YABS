@@ -7,13 +7,13 @@ function route(array $operationParameters, $link, string $method): string
     if (!empty($id)) {
         $selectBonus = <<<SQL
         DELETE
-        FROM bonus_rules
+        FROM status_changes
         WHERE id='$id'
 SQL;
     } else {
         $selectBonus = <<<SQL
         DELETE
-        FROM bonus_rules
+        FROM status_changes
         WHERE id > 0
 SQL;
     }

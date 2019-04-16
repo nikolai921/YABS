@@ -1,486 +1,322 @@
-POST http://delta.rarus-crimea.ru/adding/status
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
---WebAppBoundary
-Content-Disposition: form-data; name="number"
-
-5815398558405300
 --WebAppBoundary
 Content-Disposition: form-data; name="identifier"
 
-numberCards
---WebAppBoundary
-Content-Disposition: form-data; name="status"
-
-0
---WebAppBoundary--
-
-<> 2019-04-15T045226.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/status
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
+telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5815398558405300
+343
 --WebAppBoundary
-Content-Disposition: form-data; name="identifier"
+Content-Disposition: form-data; name="owner"
 
-numberCards
+Дамир Дмитриевич
 --WebAppBoundary
-Content-Disposition: form-data; name="status"
+Content-Disposition: form-data; name="telephone"
 
-1
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
+--WebAppBoundary
+
+
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
 --WebAppBoundary--
 
-<> 2019-04-15T045205.200.html
+<> 2019-04-16T010835.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/status
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5815398558405300
+343
 --WebAppBoundary
-Content-Disposition: form-data; name="identifier"
+Content-Disposition: form-data; name="owner"
 
-numberCards
+Дамир Дмитриевич
 --WebAppBoundary
-Content-Disposition: form-data; name="status"
+Content-Disposition: form-data; name="telephone"
 
-inactive
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
+--WebAppBoundary
+
+
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
 --WebAppBoundary--
 
-<> 2019-04-15T044949.200.html
+<> 2019-04-16T010805.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/status
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5815398558405300
+51
 --WebAppBoundary
-Content-Disposition: form-data; name="identifier"
+Content-Disposition: form-data; name="owner"
 
-numberCards
+Дамир Дмитриевич
 --WebAppBoundary
-Content-Disposition: form-data; name="status"
+Content-Disposition: form-data; name="telephone"
 
-inactive
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
+--WebAppBoundary
+
+
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
 --WebAppBoundary--
 
-<> 2019-04-15T044048.200.html
+<> 2019-04-16T010744.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/status
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5815398558405300
+51
 --WebAppBoundary
-Content-Disposition: form-data; name="identifier"
+Content-Disposition: form-data; name="owner"
 
-numberCards
+Дамир Дмитриевич
 --WebAppBoundary
-Content-Disposition: form-data; name="status"
+Content-Disposition: form-data; name="telephone"
 
-inactive
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T044025.200.html
+<> 2019-04-16T010601.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/status
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5815398558405300
+51
 --WebAppBoundary
-Content-Disposition: form-data; name="identifier"
+Content-Disposition: form-data; name="owner"
 
-numberCards
+Дамир Дмитриевич
 --WebAppBoundary
-Content-Disposition: form-data; name="status"
+Content-Disposition: form-data; name="telephone"
 
-inactive
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T044005.200.html
+<> 2019-04-16T010537.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/status
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5815398558405300
+51
 --WebAppBoundary
-Content-Disposition: form-data; name="identifier"
+Content-Disposition: form-data; name="owner"
 
-numberCards
+Дамир Дмитриевич
 --WebAppBoundary
-Content-Disposition: form-data; name="status"
+Content-Disposition: form-data; name="telephone"
 
-inactive
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T043953.200.html
+<> 2019-04-16T010336.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/percentage
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5815398558405300
+51
 --WebAppBoundary
-Content-Disposition: form-data; name="identifier"
+Content-Disposition: form-data; name="owner"
 
-numberCards
+Дамир Дмитриевич
 --WebAppBoundary
-Content-Disposition: form-data; name="percentage"
+Content-Disposition: form-data; name="telephone"
 
-5.05
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T043739.200.html
+<> 2019-04-16T010255.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/percentage
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5815398558405300
+51
 --WebAppBoundary
-Content-Disposition: form-data; name="identifier"
+Content-Disposition: form-data; name="owner"
 
-numberCards
+Дамир Дмитриевич
 --WebAppBoundary
-Content-Disposition: form-data; name="percentage"
+Content-Disposition: form-data; name="telephone"
 
-5.05
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T042728.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/percentage
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="number"
-
-5815398558405300
---WebAppBoundary
-Content-Disposition: form-data; name="identifier"
-
-numberCards
---WebAppBoundary
-Content-Disposition: form-data; name="percentage"
-
-5.05
---WebAppBoundary--
-
-<> 2019-04-15T042459.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/percentage
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="number"
-
-5815398558405300
---WebAppBoundary
-Content-Disposition: form-data; name="identifier"
-
-numberCards
---WebAppBoundary
-Content-Disposition: form-data; name="percentage"
-
-5.05
---WebAppBoundary--
-
-<> 2019-04-15T042326.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/percentage
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="number"
-
-5815398558405300
---WebAppBoundary
-Content-Disposition: form-data; name="identifier"
-
-numberCards
---WebAppBoundary
-Content-Disposition: form-data; name="percentage"
-
-5.05
---WebAppBoundary--
-
-<> 2019-04-15T042008.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/percentage
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="number"
-
-5815398558405300
---WebAppBoundary
-Content-Disposition: form-data; name="identifier"
-
-numberCards
---WebAppBoundary
-Content-Disposition: form-data; name="percentage"
-
-5.05
---WebAppBoundary--
-
-<> 2019-04-15T041939.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/percentage
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="number"
-
-5815398558405300
---WebAppBoundary
-Content-Disposition: form-data; name="identifier"
-
-numberCards
---WebAppBoundary
-Content-Disposition: form-data; name="percentage"
-
-5.05
---WebAppBoundary--
-
-<> 2019-04-15T041744.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/percentage
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="number"
-
-5815398558405300
---WebAppBoundary
-Content-Disposition: form-data; name="identifier"
-
-numberCards
---WebAppBoundary
-Content-Disposition: form-data; name="percentage"
-
-5.00
---WebAppBoundary--
-
-<> 2019-04-15T041637.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/operators
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
-
-managerKrasnodar
---WebAppBoundary--
-
-<> 2019-04-15T034636.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/operators
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
-
-managerKrasnodar
---WebAppBoundary--
-
-<> 2019-04-15T033805.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/cards/5815398558405300/&identifier=numberCards
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033732.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/cards
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033730.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/turnover/3
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033558.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/turnover
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033555.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/status/3
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033537.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/status
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033532.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/percentage/3
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033515.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/percentage
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033507.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/operators/3
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033447.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/operators
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033445.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/holidays/3
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033429.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/holidays
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033426.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/cards/5815398558405300/&identifier=numberCards
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033407.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/cards
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033402.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/bonus/3
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033321.200.html
-
-###
-
-GET http://delta.rarus-crimea.ru/show/bonus
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T033316.200.html
+<> 2019-04-16T010129.200.html
 
 ###
 
@@ -501,10 +337,6 @@ Content-Disposition: form-data; name="humanSex"
 
 mane
 --WebAppBoundary
-Content-Disposition: form-data; name="passwordKey"
-
-11115556
---WebAppBoundary
 Content-Disposition: form-data; name="birthdayDay"
 
 04
@@ -518,11 +350,11 @@ Content-Disposition: form-data; name="birthdayYear"
 1990
 --WebAppBoundary--
 
-<> 2019-04-15T033239.200.html
+<> 2019-04-16T010017.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/registration
+POST http://delta.rarus-crimea.ru/adding/registration
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
@@ -539,9 +371,39 @@ Content-Disposition: form-data; name="humanSex"
 
 mane
 --WebAppBoundary
-Content-Disposition: form-data; name="passwordKey"
+Content-Disposition: form-data; name="birthdayDay"
 
-11115556
+04
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+10
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
+--WebAppBoundary--
+
+<> 2019-04-16T125851.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/registration
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Фролов Алексей Викторович
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+79780010010
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+mane
 --WebAppBoundary
 Content-Disposition: form-data; name="birthdayDay"
 
@@ -556,236 +418,1201 @@ Content-Disposition: form-data; name="birthdayYear"
 1990
 --WebAppBoundary--
 
-<> 2019-04-15T033223.200.html
+<> 2019-04-16T125814.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/operations
+POST http://delta.rarus-crimea.ru/adding/registration
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="scopeOperation"
+Content-Disposition: form-data; name="owner"
 
-53632
+Фролов Алексей Викторович
 --WebAppBoundary
-Content-Disposition: form-data; name="bonusAmount"
+Content-Disposition: form-data; name="telephone"
 
-2322
+79780010010
 --WebAppBoundary
-Content-Disposition: form-data; name="bonusProgram"
+Content-Disposition: form-data; name="humanSex"
 
-bonus
+mane
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+04
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+10
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
+--WebAppBoundary--
+
+<> 2019-04-16T125612.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/registration
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Фролов Алексей Викторович
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+79780010010
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+mane
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+04
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+10
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
+--WebAppBoundary--
+
+<> 2019-04-16T125604.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/adding/registration
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Фролов Алексей Викторович
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+79780010010
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+mane
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+04
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+10
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayYear"
+
+1990
+--WebAppBoundary--
+
+<> 2019-04-16T125440.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
 --WebAppBoundary
 Content-Disposition: form-data; name="identifier"
 
-numberCards
+telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-5807474293123606
+51
 --WebAppBoundary
-Content-Disposition: form-data; name="passwordKey"
+Content-Disposition: form-data; name="owner"
 
-11115556
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T033106.200.html
+<> 2019-04-16T125414.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/holidays
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="date"
+Content-Disposition: form-data; name="identifier"
 
-29-10-2019
+telephone
 --WebAppBoundary
-Content-Disposition: form-data; name="name"
+Content-Disposition: form-data; name="number"
 
-День открытых дверей
+51
 --WebAppBoundary
-Content-Disposition: form-data; name="discountRate"
+Content-Disposition: form-data; name="owner"
 
-1.2
+Дамир Дмитриевич
 --WebAppBoundary
-Content-Disposition: form-data; name="passwordKey"
+Content-Disposition: form-data; name="telephone"
 
-11115556
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T033052.200.html
+<> 2019-04-16T125340.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/bonus
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="turnoverLevel"
+Content-Disposition: form-data; name="identifier"
 
-300000.00
+telephone
 --WebAppBoundary
-Content-Disposition: form-data; name="bonusAmountTable"
+Content-Disposition: form-data; name="number"
 
-30
+51
 --WebAppBoundary
-Content-Disposition: form-data; name="passwordKey"
+Content-Disposition: form-data; name="owner"
 
-11115556
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T033041.200.html
+<> 2019-04-16T125110.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/operators
-Authorization: Basic bWFuYWdlclN0UGV0ZXJzYnVyZzo4MjAxNjAz
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
-
-managerKrasnodar
---WebAppBoundary--
-
-<> 2019-04-15T032755.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/operators
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
+Content-Disposition: form-data; name="identifier"
 
-managerStPetersburg
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+female
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T032656.200.html
+<> 2019-04-16T124805.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/operators
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
+Content-Disposition: form-data; name="identifier"
 
-managerSevastopol
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T032154.200.html
+<> 2019-04-16T124718.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/operators
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
+Content-Disposition: form-data; name="identifier"
 
-managerSevastopol
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayMonth"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T032144.200.html
+<> 2019-04-16T124615.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/operators
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
+Content-Disposition: form-data; name="identifier"
 
-managerSevastopol
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T032038.200.html
+<> 2019-04-16T124523.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/operators
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
+Content-Disposition: form-data; name="identifier"
 
-managerSevastopol
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+12
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+01
 --WebAppBoundary--
 
-<> 2019-04-15T031936.200.html
+<> 2019-04-16T124434.200.html
 
 ###
 
-POST http://delta.rarus-crimea.ru/adding/operators
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
+Content-Disposition: form-data; name="identifier"
 
-managerSevastopol
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-12
 --WebAppBoundary--
 
-<> 2019-04-15T031745.200.html
+<> 2019-04-16T124012.200.html
 
 ###
 
-GET http://delta.rarus-crimea.ru/show/cards&passwordKey=11115556
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
 Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
-Accept: application/json
-
-<> 2019-04-15T030452.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/operators
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="nameOperators"
+Content-Disposition: form-data; name="identifier"
 
-managerMoscow
+telephone
 --WebAppBoundary
-Content-Disposition: form-data; name="passwordKey"
+Content-Disposition: form-data; name="number"
 
-6723734
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+2010-12-12
 --WebAppBoundary--
 
-<> 2019-04-15T030105.200.html
+<> 2019-04-16T123958.200.html
 
 ###
 
-GET http://delta.rarus-crimea.ru/show/cards&passwordKey=11115556
-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
-Accept: application/json
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
 
-<> 2019-04-15T025847.200.html
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+2010-12-12
+--WebAppBoundary--
+
+<> 2019-04-16T123810.200.html
 
 ###
 
-GET http://delta.rarus-crimea.ru/show/cards&passwordKey=11115556
-Authorization: Basic NTU4MTU0MjgyNTk5NTcxMg==
-Accept: application/json
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
 
-<> 2019-04-15T025813.200.html
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+'2010-12-12'
+--WebAppBoundary--
+
+<> 2019-04-16T123759.200.html
 
 ###
 
-GET http://delta.rarus-crimea.ru/show/cards&passwordKey=11115556
-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
-Accept: application/json
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
 
-<> 2019-04-15T025605.200.html
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+'2010-12-12'
+--WebAppBoundary--
+
+<> 2019-04-16T123525.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-12
+--WebAppBoundary--
+
+<> 2019-04-16T123306.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-12
+--WebAppBoundary--
+
+<> 2019-04-16T123215.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-12
+--WebAppBoundary--
+
+<> 2019-04-16T123050.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-12
+--WebAppBoundary--
+
+<> 2019-04-16T123018.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-12
+--WebAppBoundary--
+
+<> 2019-04-16T122928.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-12
+--WebAppBoundary--
+
+<> 2019-04-16T122911.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="humanSex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-12
+--WebAppBoundary--
+
+<> 2019-04-16T122700.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="human_sex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-12
+--WebAppBoundary--
+
+<> 2019-04-16T122521.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="human_sex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+2010-12-31
+--WebAppBoundary--
+
+<> 2019-04-16T122501.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/33045033
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="human_sex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+31-12-2010
+--WebAppBoundary--
+
+<> 2019-04-16T122412.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="human_sex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthday"
+
+31-12-2010
+--WebAppBoundary--
+
+<> 2019-04-16T122218.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="human_sex"
+
+male
+--WebAppBoundary
+Content-Disposition: form-data; name="birthdayDay"
+
+31-12-2010
+--WebAppBoundary--
+
+<> 2019-04-16T122107.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+51
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Дамир Дмитриевич
+--WebAppBoundary
+Content-Disposition: form-data; name="telephone"
+
+33045033
+--WebAppBoundary
+Content-Disposition: form-data; name="human_sex"
+
+male
+--WebAppBoundary--
+
+<> 2019-04-16T122004.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+31
+--WebAppBoundary--
+
+<> 2019-04-16T121804.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Степанов Алексей
+--WebAppBoundary--
+
+<> 2019-04-16T121745.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+'Степанов'
+--WebAppBoundary--
+
+<> 2019-04-16T120610.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Степанов
+--WebAppBoundary--
+
+<> 2019-04-16T120540.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Степанов
+--WebAppBoundary--
+
+<> 2019-04-16T120524.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Степанов
+--WebAppBoundary--
+
+<> 2019-04-16T120425.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Степанов
+--WebAppBoundary--
+
+<> 2019-04-16T120349.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Степанов
+--WebAppBoundary--
+
+<> 2019-04-16T120330.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="owner"
+
+Степанов
+--WebAppBoundary--
+
+<> 2019-04-16T115932.200.html
+
+###
+
+POST http://delta.rarus-crimea.ru/editing/cards/78051293346
+Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="identifier"
+
+telephone
+--WebAppBoundary
+Content-Disposition: form-data; name="number"
+
+21
+--WebAppBoundary--
+
+<> 2019-04-16T115709.200.html
 
 ###
 

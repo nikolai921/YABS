@@ -985,7 +985,7 @@
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="246" parent="233" name="human_sex">
+    <column id="246" parent="233" name="humanSex">
       <Position>4</Position>
       <DataType>varchar(7)|0s</DataType>
       <NotNull>1</NotNull>

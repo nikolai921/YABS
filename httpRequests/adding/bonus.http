@@ -21,11 +21,5 @@ Content-Disposition: form-data; name="bonusAmountTable"
 30
 --WebAppBoundary--
 
---WebAppBoundary
-Content-Disposition: form-data; name="passwordKey"
-
-11115556
-
---WebAppBoundary--
 
 ###

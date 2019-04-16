@@ -46,7 +46,7 @@ $operationParameters = [
 print_r($operationParameters);
 
 
-$authorizationOperator = operatorAuthorization($link, $authKey);
+$authorizationOperator = operatorAuthorization($link);
 
 $operationParameters['operatorsId'] = $authorizationOperator;
 
