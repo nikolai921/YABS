@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44c6c2ac-f692-4f82-b294-2f61b15c7f04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-18T125902.200.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/statistics/cardsRepot.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/statistics/cardsRepot.php" afterDir="false" />
-    </list>
+    <list default="true" id="44c6c2ac-f692-4f82-b294-2f61b15c7f04" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,26 +47,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="3" selection-end-line="11" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/routers/statistics/cardsRepot.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -192,39 +170,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YABS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YABS" type="462c0819:PsiDirectoryNode" />
-              <item name="httpRequests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YABS" type="462c0819:PsiDirectoryNode" />
-              <item name="httpRequests" type="462c0819:PsiDirectoryNode" />
-              <item name="statistics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YABS" type="462c0819:PsiDirectoryNode" />
-              <item name="routers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YABS" type="462c0819:PsiDirectoryNode" />
-              <item name="routers" type="462c0819:PsiDirectoryNode" />
-              <item name="statistics" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,25 +204,6 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/cardsRepot/9523138887736112/&amp;identifier=numberCards" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/totals" />
@@ -356,6 +283,25 @@
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/incomeSeason" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/cardsRepot/9523138887736112/&amp;identifier=numberCards" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
@@ -1266,29 +1212,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.cardsRepot#1">
-    <configuration name="cardsRepot#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http">
-      <method v="2" />
-    </configuration>
-    <configuration name="loyaltyShare#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/loyaltyShare.http">
-      <method v="2" />
-    </configuration>
-    <configuration name="period#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/period.http">
-      <method v="2" />
-    </configuration>
-    <configuration name="topManagers#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/topManagers.http">
-      <method v="2" />
-    </configuration>
-    <configuration name="totals#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/totals.http">
+  <component name="RunManager" selected="HTTP Request.totals#1">
+    <configuration name="incomeSeason#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/incomeSeason.http">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.cardsRepot#1" />
         <item itemvalue="HTTP Request.totals#1" />
         <item itemvalue="HTTP Request.topManagers#1" />
         <item itemvalue="HTTP Request.period#1" />
         <item itemvalue="HTTP Request.loyaltyShare#1" />
+        <item itemvalue="HTTP Request.incomeSeason#1" />
       </list>
     </recent_temporary>
   </component>
@@ -1311,23 +1245,22 @@
       <workItem from="1555480940721" duration="1113000" />
       <workItem from="1555482114923" duration="5528000" />
       <workItem from="1555488007284" duration="21764000" />
-      <workItem from="1555566680547" duration="28793000" />
+      <workItem from="1555566680547" duration="29659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193188000" />
+    <option name="totallyTimeSpent" value="194054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1915403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40228012" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40228012" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1336,7 +1269,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3534202" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3534202" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.3306189" />
       <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1415,41 +1348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/incomeSeason.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/loyaltyShare.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" lean-forward="true" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/period.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/topManagers.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/totals.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="18" column="3" lean-forward="true" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1687,6 +1585,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/routers/statistics/cardsRepot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="75" column="5" lean-forward="true" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1694,10 +1599,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routers/statistics/cardsRepot.php">
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/incomeSeason.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/loyaltyShare.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="true" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/period.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/topManagers.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/totals.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="3" lean-forward="true" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
