@@ -26,7 +26,6 @@ SQL;
         FROM cards
 SQL;
     }
-
     $resultCards = mysqli_query($link, $selectCards) or die(mysqli_error($link));
     for ($dataCards = []; $row = mysqli_fetch_assoc($resultCards); $dataCards[] = $row) {
     };

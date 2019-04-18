@@ -1043,143 +1043,184 @@
       <Unique>1</Unique>
       <Type>btree</Type>
     </index>
-    <key id="257" parent="233" name="PRIMARY">
+    <index id="257" parent="233" name="cards_operators_id_fk">
+      <ColNames>operators_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="258" parent="233" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <key id="258" parent="233" name="number">
+    <key id="259" parent="233" name="number">
       <ColNames>number</ColNames>
       <UnderlyingIndexName>number</UnderlyingIndexName>
     </key>
-    <column id="259" parent="234" name="id">
+    <foreign-key id="260" parent="233" name="cards_operators_id_fk">
+      <ColNames>operators_id</ColNames>
+      <RefSchemaName>YABS</RefSchemaName>
+      <RefTableName>operators</RefTableName>
+      <RefColNames>id</RefColNames>
+      <OnUpdate>cascade</OnUpdate>
+      <OnDelete>cascade</OnDelete>
+    </foreign-key>
+    <column id="261" parent="234" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="260" parent="234" name="date">
+    <column id="262" parent="234" name="date">
       <Position>2</Position>
       <DataType>date|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="261" parent="234" name="name">
+    <column id="263" parent="234" name="name">
       <Position>3</Position>
       <DataType>varchar(255)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="262" parent="234" name="discount_rate">
+    <column id="264" parent="234" name="discount_rate">
       <Position>4</Position>
       <DataType>float|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="263" parent="234" name="PRIMARY">
+    <key id="265" parent="234" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="264" parent="235" name="id">
+    <column id="266" parent="235" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="265" parent="235" name="name">
+    <column id="267" parent="235" name="name">
       <Position>2</Position>
       <DataType>varchar(255)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="266" parent="235" name="accessLevel">
+    <column id="268" parent="235" name="accessLevel">
       <Position>3</Position>
       <DataType>varchar(255)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="267" parent="235" name="unique_key">
+    <column id="269" parent="235" name="unique_key">
       <Position>4</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="268" parent="235" name="hashKey">
+    <column id="270" parent="235" name="hashKey">
       <Position>5</Position>
       <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="269" parent="235" name="PRIMARY">
+    <key id="271" parent="235" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="270" parent="236" name="id">
+    <column id="272" parent="236" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="271" parent="236" name="operators_id">
+    <column id="273" parent="236" name="operators_id">
       <Position>2</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="272" parent="236" name="cards_id">
+    <column id="274" parent="236" name="cards_id">
       <Position>3</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="273" parent="236" name="percentage_changes">
+    <column id="275" parent="236" name="operations_id">
       <Position>4</Position>
+      <DataType>int(11)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="276" parent="236" name="percentage_changes">
+      <Position>5</Position>
       <DataType>decimal(10,2 digit)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="274" parent="236" name="date">
-      <Position>5</Position>
+    <column id="277" parent="236" name="date">
+      <Position>6</Position>
       <DataType>timestamp|0s</DataType>
       <NotNull>1</NotNull>
       <DefaultExpression>CURRENT_TIMESTAMP</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
       <OnUpdate>CURRENT_TIMESTAMP</OnUpdate>
     </column>
-    <key id="275" parent="236" name="PRIMARY">
+    <index id="278" parent="236" name="percentage_changes_operators_id_fk">
+      <ColNames>operators_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <index id="279" parent="236" name="percentage_changes_cards_id_fk">
+      <ColNames>cards_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="280" parent="236" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="276" parent="237" name="id">
+    <foreign-key id="281" parent="236" name="percentage_changes_operators_id_fk">
+      <ColNames>operators_id</ColNames>
+      <RefSchemaName>YABS</RefSchemaName>
+      <RefTableName>operators</RefTableName>
+      <RefColNames>id</RefColNames>
+      <OnUpdate>cascade</OnUpdate>
+      <OnDelete>cascade</OnDelete>
+    </foreign-key>
+    <foreign-key id="282" parent="236" name="percentage_changes_cards_id_fk">
+      <ColNames>cards_id</ColNames>
+      <RefSchemaName>YABS</RefSchemaName>
+      <RefTableName>cards</RefTableName>
+      <RefColNames>id</RefColNames>
+      <OnUpdate>cascade</OnUpdate>
+      <OnDelete>cascade</OnDelete>
+    </foreign-key>
+    <column id="283" parent="237" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="277" parent="237" name="operators_id">
+    <column id="284" parent="237" name="operators_id">
       <Position>2</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="278" parent="237" name="cards_id">
+    <column id="285" parent="237" name="cards_id">
       <Position>3</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="279" parent="237" name="status_changes">
+    <column id="286" parent="237" name="status_changes">
       <Position>4</Position>
       <DataType>tinyint(1)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="280" parent="237" name="date">
+    <column id="287" parent="237" name="date">
       <Position>5</Position>
       <DataType>timestamp|0s</DataType>
       <NotNull>1</NotNull>
@@ -1187,97 +1228,121 @@
       <ColumnKind>normal</ColumnKind>
       <OnUpdate>CURRENT_TIMESTAMP</OnUpdate>
     </column>
-    <key id="281" parent="237" name="PRIMARY">
+    <key id="288" parent="237" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="282" parent="238" name="id">
+    <column id="289" parent="238" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="283" parent="238" name="operators_id">
+    <column id="290" parent="238" name="operators_id">
       <Position>2</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="284" parent="238" name="cards_id">
+    <column id="291" parent="238" name="cards_id">
       <Position>3</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="285" parent="238" name="scope_operation">
+    <column id="292" parent="238" name="scope_operation">
       <Position>4</Position>
       <DataType>decimal(11,2 digit)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="286" parent="238" name="actual_receipt">
+    <column id="293" parent="238" name="actual_receipt">
       <Position>5</Position>
       <DataType>decimal(10,2 digit)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="287" parent="238" name="bonus_amount">
+    <column id="294" parent="238" name="bonus_amount">
       <Position>6</Position>
       <DataType>decimal(10,2 digit)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="288" parent="238" name="bonus_accrual">
+    <column id="295" parent="238" name="bonus_accrual">
       <Position>7</Position>
       <DataType>decimal(10,2 digit)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="289" parent="238" name="written_of">
+    <column id="296" parent="238" name="written_of">
       <Position>8</Position>
       <DataType>decimal(10,2 digit)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="290" parent="238" name="date">
+    <column id="297" parent="238" name="date">
       <Position>9</Position>
       <DataType>datetime|0s</DataType>
       <DefaultExpression>CURRENT_TIMESTAMP</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="291" parent="238" name="PRIMARY">
+    <index id="298" parent="238" name="turnover_operations_operators_id_fk">
+      <ColNames>operators_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <index id="299" parent="238" name="turnover_operations_cards_id_fk">
+      <ColNames>cards_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="300" parent="238" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="292" parent="239" name="id">
+    <foreign-key id="301" parent="238" name="turnover_operations_operators_id_fk">
+      <ColNames>operators_id</ColNames>
+      <RefSchemaName>YABS</RefSchemaName>
+      <RefTableName>operators</RefTableName>
+      <RefColNames>id</RefColNames>
+      <OnUpdate>cascade</OnUpdate>
+      <OnDelete>cascade</OnDelete>
+    </foreign-key>
+    <foreign-key id="302" parent="238" name="turnover_operations_cards_id_fk">
+      <ColNames>cards_id</ColNames>
+      <RefSchemaName>YABS</RefSchemaName>
+      <RefTableName>cards</RefTableName>
+      <RefColNames>id</RefColNames>
+      <OnUpdate>cascade</OnUpdate>
+      <OnDelete>cascade</OnDelete>
+    </foreign-key>
+    <column id="303" parent="239" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="293" parent="239" name="operators_id">
+    <column id="304" parent="239" name="operators_id">
       <Position>2</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="294" parent="239" name="scope_operation">
+    <column id="305" parent="239" name="scope_operation">
       <Position>3</Position>
       <DataType>decimal(10,2 digit)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="295" parent="239" name="date">
+    <column id="306" parent="239" name="date">
       <Position>4</Position>
       <DataType>timestamp|0s</DataType>
       <NotNull>1</NotNull>
       <DefaultExpression>CURRENT_TIMESTAMP</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="296" parent="239" name="PRIMARY">
+    <key id="307" parent="239" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>

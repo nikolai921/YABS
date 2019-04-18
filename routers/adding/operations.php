@@ -1,7 +1,8 @@
 <?php
 
-function route(array $operationParameters, $link, string $method) : string
+function route(array $operationParameters, $link, string $method): string
 {
+    //
     $operatorsId = mysqli_real_escape_string($link, $operationParameters['operatorsId']);
     $identifier = mysqli_real_escape_string($link, $operationParameters['identifier']);
     $number = mysqli_real_escape_string($link, $operationParameters['number']);
@@ -29,7 +30,7 @@ SQL;
         throw new InvalidArgumentException('Неверно указан идентификатор клиента');
     }
 
-    //  1. Совершение операции (сделки)
+    //  Данные по операции (сделки)
 
     $status = $dataCards['status'];
     $balance = $dataCards['balance'];
@@ -42,7 +43,7 @@ SQL;
     if ($status === '1') {
 
         //    Если клиент хочет списать больше бонусов чем у него есть производится списание всего объема бонусов
-        //    Проверка на равенство 50% от покупки
+        //    Проверка объема списания бонусов, на равенство 50% от объема покупки
 
         if ($bonusAmount <= $balance) {
             if ($bonusAmount < floor($scopeOperation / 2)) {
@@ -67,17 +68,6 @@ SQL;
         }
 
         // Проверка на праздники и дни рождения
-
-//    $customer = $dataCards['customer_id'];
-        // День рождения
-
-//    $selectCustomer = <<<SQL
-//        SELECT birthday
-//        FROM customers
-//        WHERE id='$customer'
-//SQL;
-//    $resultCustomer = mysqli_query($link, $selectCustomer) or die(mysqli_error($link));
-//    $dataCustomer = mysqli_fetch_assoc($resultCustomer);
 
         $birthday = date('d-m', strtotime($dataCards['birthday']));
         $today = date('d-m', time());
@@ -126,6 +116,8 @@ SQL;
             $actualReceipt = $scopeOperation - $writtenOf;
         }
 
+        //Запись операции в таблицу
+
         $insertTurnover = <<< SQL
     INSERT INTO turnover_operations 
     (operators_id, cards_id, scope_operation, actual_receipt, bonus_amount, bonus_accrual, written_of)  
@@ -148,16 +140,26 @@ SQL;
         $resultDiscount = mysqli_query($link, $selectDiscount) or die(mysqli_error($link));
         $dataDiscount = mysqli_fetch_assoc($resultDiscount);
 
+        // Таблица percentage_changes
+
         $level = $dataDiscount['level'];
 
         if ($level > $discount) {
             $discount = $level;
-            // Таблица percentage_changes
+
             $insertPercentage = <<< SQL
         INSERT INTO percentage_changes (operators_id, cards_id, percentage_changes)  
         VALUES ('$operatorsId', '$cardsId', '$level')
 SQL;
             $result = mysqli_query($link, $insertPercentage) or die(mysqli_error($link));
+
+            $selectPercent = <<< SQL
+    SELECT MAX(id) as id 
+    FROM percentage_changes     
+SQL;
+            $resultPercent = mysqli_query($link, $selectPercent) or die(mysqli_error($link));
+            $dataPercent = mysqli_fetch_assoc($resultPercent);
+            $idPercent = $dataPercent['id'];
         }
 
         // Таблица cards
@@ -172,7 +174,8 @@ SQL;
         throw new InvalidArgumentException('Статус карты: "Не активна"');
     }
 
-// Возвращаем id операции
+    // Возвращаем id операции
+
     $selectOperations = <<< SQL
     SELECT MAX(id) as id 
     FROM turnover_operations     
@@ -181,16 +184,24 @@ SQL;
     $dataOperations = mysqli_fetch_assoc($resultOperations);
 
     $idOperations = $dataOperations['id'];
+
+    $updatePercent = <<< SQL
+    UPDATE percentage_changes 
+    SET operations_id ='$idOperations'
+    WHERE id = '$idPercent'
+SQL;
+    $result = mysqli_query($link, $updatePercent) or die(mysqli_error($link));
+
     return json_encode([
         'method' => $method,
         'idOperations' => $idOperations,
-        'idCards' => $cardsId
-        ]);
+        'idCards' => $cardsId,
+    ]);
 
     // Возвращаем ошибку
     header('HTTP/1.0 400 Bad Request');
-    echo json_encode(array(
-        'error' => 'Bad Request'
-    ));
+    echo json_encode([
+        'error' => 'Bad Request',
+    ]);
 
 }

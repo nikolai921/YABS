@@ -13,13 +13,13 @@ Content-Type: multipart/form-data; boundary=WebAppBoundary
 --WebAppBoundary
 Content-Disposition: form-data; name="scopeOperation"
 
-53632
+4536.44
 --WebAppBoundary--
 
 --WebAppBoundary
 Content-Disposition: form-data; name="bonusAmount"
 
-2322
+2322.43
 --WebAppBoundary--
 
 --WebAppBoundary

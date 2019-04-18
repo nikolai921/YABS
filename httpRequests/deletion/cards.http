@@ -6,7 +6,7 @@
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
 GET http://delta.rarus-crimea.ru/deletion/cards
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Authorization: Basic 0KTQtdC00L7RgdC10LXQsiDQntC70LXQsyDQr9C90L7QstC40Yc6OTA3OTk3MQ==
 Accept: application/json
 
 ###

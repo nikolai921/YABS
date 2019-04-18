@@ -6,13 +6,13 @@
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
 GET http://delta.rarus-crimea.ru/show/status
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
 Accept: application/json
 
 ###
 
 GET http://delta.rarus-crimea.ru/show/status/3
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
 Accept: application/json
 
 ###

@@ -14,7 +14,7 @@ SQL;
         $selectBonus = <<<SQL
         DELETE
         FROM cards
-        WHERE id > 0
+        WHERE id > 10
 SQL;
     }
 

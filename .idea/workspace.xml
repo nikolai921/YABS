@@ -1,7 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44c6c2ac-f692-4f82-b294-2f61b15c7f04" name="Default Changelist" comment="" />
+    <list default="true" id="44c6c2ac-f692-4f82-b294-2f61b15c7f04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T010017.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T010129.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T010255.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T010336.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T010537.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T010601.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T010744.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T010805.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T010835.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T034334.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T034406.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T034428.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T034445.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T034528.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T034539.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T035539.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T035613.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T040455.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T043637.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T043729.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T043801.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T043917.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T043929.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T044525.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T044550.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T044620.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T051343.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T051406.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T051514.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T051617.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T051701.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T052201.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T052246.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T052349.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T052440.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T052455.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T052713.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T052723.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T052730.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T124615.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T124718.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T124805.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T125110.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T125340.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T125414.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T125440.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T125604.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T125612.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T125814.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-16T125851.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/bonus.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/holidays.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/noCardsOperations.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/operations.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/operators.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/percentage.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/registration.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/status.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/bonus.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/cards.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/holidays.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/operators.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/percentage.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/status.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/turnover.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/editing/cards.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/bonus.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/cards.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/holidays.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/operators.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/percentage.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/status.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/turnover.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/adding/bonus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/adding/holidays.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/adding/noCardsOperations.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/adding/operations.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/adding/operators.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/adding/percentage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/adding/registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/adding/status.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/deletion/bonus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/deletion/cards.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/deletion/holidays.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/deletion/operators.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/deletion/percentage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/deletion/status.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/deletion/turnover.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/editing/cards.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/show/bonus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/show/cards.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/show/holidays.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/show/operators.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/show/percentage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/show/status.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/show/turnover.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,43 +141,23 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="YABS: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="YABS@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="YABS: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="unaddressed_operations: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/httpRequests/adding/noCardsOperations.http">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/unaddressed_operations">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routers/adding/noCardsOperations.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/function.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+            <state relative-caret-position="90">
+              <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -80,8 +165,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#461#1550#0#PHP" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,15 +186,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>$cards_id</find>
-      <find>$scope_operation</find>
-      <find>$bonus_amount</find>
-      <find>$bonusAmount_table</find>
-      <find>$balance_changes</find>
-      <find>$discount_accrual</find>
-      <find>$bonus_accrual_table</find>
-      <find>$actual_receipt</find>
-      <find>$written_of</find>
       <find>$insert</find>
       <find>$cardUse</find>
       <find>$date</find>
@@ -128,6 +207,15 @@
       <find>$selectHolidays</find>
       <find>$resultHolidays</find>
       <find>$dataHolidays</find>
+      <find>$selectOperation</find>
+      <find>$selectOperations</find>
+      <find>$_REQUEST</find>
+      <find>#\d{2}\.?\d{2}?#</find>
+      <find>#\d*\.?#</find>
+      <find>#^\d*(\.{1}\d{2})?$#</find>
+      <find>#\d{1,2}(\.\d{1,2})?#</find>
+      <find>#\d{1,2}(\.{1}\d{1,2})?#</find>
+      <find>#\d{4}\-\d{2}\-\d{2}#</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -142,62 +230,62 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/httpRequests/operations.http" />
-        <option value="$PROJECT_DIR$/routers/operators.php" />
-        <option value="$PROJECT_DIR$/routers/show/percentage.php" />
-        <option value="$PROJECT_DIR$/routers/show/holidays.php" />
-        <option value="$PROJECT_DIR$/routers/show/operators.php" />
-        <option value="$PROJECT_DIR$/routers/show/status.http" />
-        <option value="$PROJECT_DIR$/routers/show/status.php" />
-        <option value="$PROJECT_DIR$/routers/show/turnover.php" />
-        <option value="$PROJECT_DIR$/httpRequests/show/bonus.php" />
-        <option value="$PROJECT_DIR$/routers/show/bonus.php" />
-        <option value="$PROJECT_DIR$/routers/adding/bonus.php" />
-        <option value="$PROJECT_DIR$/routers/adding/holidays.php" />
-        <option value="$PROJECT_DIR$/routers/show/cards.php" />
-        <option value="$PROJECT_DIR$/routers/adding/test.php" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_1.sql" />
-        <option value="$PROJECT_DIR$/httpRequests/show/holidays.http" />
-        <option value="$PROJECT_DIR$/httpRequests/show/operators.http" />
-        <option value="$PROJECT_DIR$/httpRequests/show/percentage.http" />
-        <option value="$PROJECT_DIR$/httpRequests/show/status.http" />
-        <option value="$PROJECT_DIR$/httpRequests/show/turnover.http" />
-        <option value="$PROJECT_DIR$/httpRequests/adding/percentage.http" />
-        <option value="$PROJECT_DIR$/routers/adding/percentage.php" />
-        <option value="$PROJECT_DIR$/routers/adding/status.php" />
-        <option value="$PROJECT_DIR$/httpRequests/adding/status.http" />
-        <option value="$PROJECT_DIR$/httpRequests/deletion/bonus.http" />
-        <option value="$PROJECT_DIR$/routers/deletion/bonus.php" />
-        <option value="$PROJECT_DIR$/httpRequests/adding/registration.http" />
-        <option value="$PROJECT_DIR$/routers/adding/operations.php" />
-        <option value="$PROJECT_DIR$/routers/adding/registration.php" />
-        <option value="$PROJECT_DIR$/httpRequests/editing/cards.http" />
         <option value="$PROJECT_DIR$/routers/editing/cards.php" />
         <option value="$PROJECT_DIR$/test.php" />
-        <option value="$PROJECT_DIR$/httpRequests/adding/bonus.http" />
         <option value="$PROJECT_DIR$/routers/adding/operators.php" />
-        <option value="$PROJECT_DIR$/httpRequests/adding/operators.http" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/httpRequests/adding/operations.http" />
-        <option value="$PROJECT_DIR$/httpRequests/adding/holidays.http" />
-        <option value="$PROJECT_DIR$/httpRequests/show/cards.http" />
-        <option value="$PROJECT_DIR$/httpRequests/show/bonus.http" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_2.sql" />
         <option value="$PROJECT_DIR$/routers/adding/unaddressedOperations.php" />
         <option value="$PROJECT_DIR$/routers/adding/nonCardsOperations.php" />
-        <option value="$PROJECT_DIR$/function.php" />
         <option value="$PROJECT_DIR$/httpRequests/adding/nonCardsOperations.http" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_3.sql" />
         <option value="$PROJECT_DIR$/routers/adding/noCardsOperations.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_4.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_5.sql" />
+        <option value="$PROJECT_DIR$/httpRequests/deletion/percentage.http" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_6.sql" />
+        <option value="$PROJECT_DIR$/routers/show/cards.php" />
+        <option value="$PROJECT_DIR$/routers/statistics/cardsRepot.php" />
+        <option value="$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http" />
+        <option value="$PROJECT_DIR$/variousFiles/GenerateFull2.php" />
+        <option value="$PROJECT_DIR$/httpRequests/statistics/totals.http" />
+        <option value="$PROJECT_DIR$/routers/statistics/totals.php" />
+        <option value="$PROJECT_DIR$/routers/adding/operations.php" />
+        <option value="$PROJECT_DIR$/httpRequests/statistics/loyaltyShare.http" />
+        <option value="$PROJECT_DIR$/routers/statistics/loyaltyShare.php" />
+        <option value="$PROJECT_DIR$/httpRequests/statistics/topManagers.http" />
+        <option value="$PROJECT_DIR$/routers/statistics/topManagers.php" />
+        <option value="$PROJECT_DIR$/httpRequests/statistics/incomeSeason.http" />
+        <option value="$PROJECT_DIR$/routers/statistics/incomeSeason.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_7.sql" />
+        <option value="$PROJECT_DIR$/httpRequests/period.http" />
+        <option value="$PROJECT_DIR$/httpRequests/statistics/period.http" />
+        <option value="$PROJECT_DIR$/routers/statistics/period.php" />
+        <option value="$PROJECT_DIR$/httpRequests/show/bonus.http" />
+        <option value="$PROJECT_DIR$/httpRequests/adding/bonus.http" />
+        <option value="$PROJECT_DIR$/httpRequests/adding/holidays.http" />
         <option value="$PROJECT_DIR$/httpRequests/adding/noCardsOperations.http" />
+        <option value="$PROJECT_DIR$/httpRequests/adding/operations.http" />
+        <option value="$PROJECT_DIR$/httpRequests/adding/operators.http" />
+        <option value="$PROJECT_DIR$/httpRequests/adding/percentage.http" />
+        <option value="$PROJECT_DIR$/httpRequests/adding/registration.http" />
+        <option value="$PROJECT_DIR$/httpRequests/adding/status.http" />
+        <option value="$PROJECT_DIR$/httpRequests/deletion/bonus.http" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_8.sql" />
+        <option value="$PROJECT_DIR$/httpRequests/editing/cards.http" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/httpRequests/show/cards.http" />
+        <option value="$PROJECT_DIR$/httpRequests/show/holidays.http" />
+        <option value="$PROJECT_DIR$/httpRequests/show/operators.http" />
+        <option value="$PROJECT_DIR$/httpRequests/show/percentage.http" />
+        <option value="$PROJECT_DIR$/httpRequests/show/status.http" />
+        <option value="$PROJECT_DIR$/httpRequests/show/turnover.http" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/function.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
+    <option name="x" value="716" />
     <option name="y" value="25" />
     <option name="width" value="650" />
     <option name="height" value="743" />
@@ -208,6 +296,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,11 +304,20 @@
               <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
               <item name="YABS" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YABS" type="462c0819:PsiDirectoryNode" />
+              <item name="httpRequests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YABS" type="462c0819:PsiDirectoryNode" />
+              <item name="routers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,6 +338,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/httpRequests/statistics" />
       <recent name="$PROJECT_DIR$/httpRequests" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/routers/show" />
@@ -253,134 +352,394 @@
     <option name="REQUEST_HISTORY">
       <list>
         <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/noCardsOperations" />
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/totals" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JXQu9C40YHQtdC10LIg0JPQu9C10LEg0KHQtdGA0LPQtdC10LLQuNGHOjEzNzQ1NjM=" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
               </KeyValuePair>
               <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
               </KeyValuePair>
             </list>
           </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/noCardsOperations" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JXQu9C40YHQtdC10LIg0JPQu9C10LEg0KHQtdGA0LPQtdC10LLQuNGHOjEzNzQ1NjM=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/noCardsOperations" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JXQu9C40YHQtdC10LIg0JPQu9C10LEg0KHQtdGA0LPQtdC10LLQuNGHOjEzNzQ1NjM=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/noCardsOperations" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JXQu9C40YHQtdC10LIg0JPQu9C10LEg0KHQtdGA0LPQtdC10LLQuNGHOjEzNzQ1NjM=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/noCardsOperations" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JXQu9C40YHQtdC10LIg0JPQu9C10LEg0KHQtdGA0LPQtdC10LLQuNGHOjEzNzQ1NjM=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/noCardsOperations" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0J/QsNC90L7QsiDQlNCw0LzQuNGAINCU0LzQuNGC0YDQuNC10LLQuNGHOjU0OTA3MjU=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
           <option name="textToSend" value="" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/bonus" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/topManagers" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0J/QsNC90L7QsiDQlNCw0LzQuNGAINCU0LzQuNGC0YDQuNC10LLQuNGHOjU0OTA3MjU=" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/period/&amp;intervalStart=2019-01-01&amp;intervalEnd=2019-04-12" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/loyaltyShare" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/incomeSeason" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/cardsRepot/9523138887736112/&amp;identifier=numberCards" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/turnover/3" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/turnover" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/status/3" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/status" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/status" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/percentage/3" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/percentage" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/operators/3" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/operators" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/operators" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/noCardsOperations/3" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/noCardsOperations" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/holidays/3" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/holidays" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/holidays" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
               </KeyValuePair>
               <KeyValuePair>
                 <option name="key" value="Accept" />
@@ -399,6 +758,44 @@
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/cards" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/cards" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
                 <option name="value" value="Basic 0J/QsNC90L7QsiDQlNCw0LzQuNGAINCU0LzQuNGC0YDQuNC10LLQuNGHOjU0OTA3MjU=" />
               </KeyValuePair>
               <KeyValuePair>
@@ -411,168 +808,46 @@
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/holidays" />
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/bonus/3" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0J/QsNC90L7QsiDQlNCw0LzQuNGAINCU0LzQuNGC0YDQuNC10LLQuNGHOjU0OTA3MjU=" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg" />
               </KeyValuePair>
               <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
               </KeyValuePair>
             </list>
           </option>
-          <option name="isFileUpload" value="true" />
           <option name="textToSend" value="" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/holidays" />
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/show/bonus" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JXQu9C40YHQtdC10LIg0JPQu9C10LEg0KHQtdGA0LPQtdC10LLQuNGHOjEzNzQ1NjM=" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
               </KeyValuePair>
               <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
               </KeyValuePair>
             </list>
           </option>
-          <option name="isFileUpload" value="true" />
           <option name="textToSend" value="" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/operations" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JXQu9C40YHQtdC10LIg0JPQu9C10LEg0KHQtdGA0LPQtdC10LLQuNGHOjEzNzQ1NjM=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/operations" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JHQvtGA0LjRgdC+0LIg0JTQsNC90LjRjdC70Ywg0JLQuNC60YLQvtGA0L7QstC40Yc6MzY4MDEwOA==" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/operators" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JHQvtGA0LjRgdC+0LIg0JTQsNC90LjRjdC70Ywg0JLQuNC60YLQvtGA0L7QstC40Yc6MzY4MDEwOA==" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/operators" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0J/QsNC90L7QsiDQlNCw0LzQuNGAINCU0LzQuNGC0YDQuNC10LLQuNGHOjU0OTA3MjU=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/bonus" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0J/QsNC90L7QsiDQlNCw0LzQuNGAINCU0LzQuNGC0YDQuNC10LLQuNGHOjU0OTA3MjU=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/bonus" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JXQu9C40YHQtdC10LIg0JPQu9C10LEg0KHQtdGA0LPQtdC10LLQuNGHOjEzNzQ1NjM=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/bonus" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/79786453421" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
@@ -592,13 +867,53 @@
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/bonus" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/79786453421" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/77987758247" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
               </KeyValuePair>
               <KeyValuePair>
                 <option name="key" value="Content-Type" />
@@ -651,8 +966,247 @@
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/deletion/bonus/6" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/status" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/status" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/status" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/status" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/registration" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/registration" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/registration" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/registration" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/registration" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/registration" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/registration" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/registration" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
@@ -692,7 +1246,7 @@
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/registration" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
@@ -712,13 +1266,13 @@
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/percentage" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
               </KeyValuePair>
               <KeyValuePair>
                 <option name="key" value="Content-Type" />
@@ -732,13 +1286,13 @@
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/percentage" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
               </KeyValuePair>
               <KeyValuePair>
                 <option name="key" value="Content-Type" />
@@ -752,13 +1306,13 @@
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/percentage" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
               </KeyValuePair>
               <KeyValuePair>
                 <option name="key" value="Content-Type" />
@@ -772,493 +1326,13 @@
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/adding/percentage" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
               <KeyValuePair>
                 <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/33045033" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/78051293346" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/9331994724086618" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/9331994724086618" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/9331994724086618" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="isFileUpload" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/editing/cards/9331994724086618" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
               </KeyValuePair>
               <KeyValuePair>
                 <option name="key" value="Content-Type" />
@@ -1285,29 +1359,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.noCardsOperations#1">
-    <configuration name="bonus#1 (1)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/show/bonus.http">
+  <component name="RunManager" selected="HTTP Request.totals#1">
+    <configuration name="incomeSeason#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/incomeSeason.http">
       <method v="2" />
     </configuration>
-    <configuration name="cards#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/show/cards.http" index="2">
+    <configuration name="loyaltyShare#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/loyaltyShare.http">
       <method v="2" />
     </configuration>
-    <configuration name="holidays#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/adding/holidays.http">
+    <configuration name="period#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/period.http">
       <method v="2" />
     </configuration>
-    <configuration name="noCardsOperations#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/adding/noCardsOperations.http">
+    <configuration name="topManagers#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/topManagers.http">
       <method v="2" />
     </configuration>
-    <configuration name="nonCardsOperations#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/adding/nonCardsOperations.http">
+    <configuration name="totals#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/totals.http">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.noCardsOperations#1" />
-        <item itemvalue="HTTP Request.nonCardsOperations#1" />
-        <item itemvalue="HTTP Request.bonus#1 (1)" />
-        <item itemvalue="HTTP Request.cards#2" />
-        <item itemvalue="HTTP Request.holidays#1" />
+        <item itemvalue="HTTP Request.totals#1" />
+        <item itemvalue="HTTP Request.topManagers#1" />
+        <item itemvalue="HTTP Request.period#1" />
+        <item itemvalue="HTTP Request.loyaltyShare#1" />
+        <item itemvalue="HTTP Request.incomeSeason#1" />
       </list>
     </recent_temporary>
   </component>
@@ -1326,22 +1400,27 @@
       <workItem from="1554962684314" duration="29919000" />
       <workItem from="1555049060348" duration="27523000" />
       <workItem from="1555308342924" duration="30064000" />
-      <workItem from="1555393489987" duration="27684000" />
+      <workItem from="1555393489987" duration="27829000" />
+      <workItem from="1555480940721" duration="1113000" />
+      <workItem from="1555482114923" duration="5528000" />
+      <workItem from="1555488007284" duration="21764000" />
+      <workItem from="1555566680547" duration="22399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135845000" />
+    <option name="totallyTimeSpent" value="186794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17877094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1915403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39739415" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40228012" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1349,24 +1428,108 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.35667753" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3534202" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3306189" />
       <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.19792499" />
+      <window_info anchor="right" id="Database" order="3" weight="0.19792499" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/bonus_rules">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="file://$PROJECT_DIR$/variousFiles/GenerateFull2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="201" column="37" selection-start-line="201" selection-start-column="37" selection-end-line="201" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/statistics/loyaltyShare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/statistics/incomeSeason.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/statistics/cardsRepot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="44" column="33" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/statistics/topManagers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_7.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/operations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/statistics/totals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="88" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/statistics/period.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/adding/operations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="114" column="45" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/show/bonus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/adding/bonus.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/adding/holidays.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="97" selection-start-line="8" selection-start-column="97" selection-end-line="8" selection-end-column="97" />
         </state>
       </provider>
     </entry>
@@ -1377,204 +1540,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_1.sql">
+    <entry file="file://$PROJECT_DIR$/httpRequests/adding/noCardsOperations.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/show/operators.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/show/percentage.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/show/status.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/percentage_changes">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/adding/percentage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/status_changes">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/update.php" />
-    <entry file="file://$PROJECT_DIR$/routers/show/bonus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" lean-forward="true" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variousFiles/YABS8.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1921" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/adding/bonus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="56" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="19" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/adding/percentage.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/deletion/turnover.http">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/show/holidays.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/show/turnover.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/deletion/bonus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="14" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/deletion/cards.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/show/holidays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/adding/status.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/show/cards.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/adding/registration.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/adding/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/editing/cards.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="7" lean-forward="true" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/editing/cards.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-320">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/adding/bonus.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="89" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
+        <state relative-caret-position="204">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/httpRequests/adding/operations.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="89" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
+        <state relative-caret-position="585">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/adding/operators.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_2.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/show/cards.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/show/bonus.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="89" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/unaddressed_operations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1585,52 +1568,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/deletion/bonus.http">
+    <entry file="file://$PROJECT_DIR$/httpRequests/adding/operators.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" selection-end-line="17" selection-end-column="3" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routers/adding/operators.php">
+    <entry file="file://$PROJECT_DIR$/httpRequests/adding/percentage.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        <state relative-caret-position="210">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routers/adding/status.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/adding/holidays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="34" column="1" lean-forward="true" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/adding/operations.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="95" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/cards">
+    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/percentage_changes">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/adding/holidays.http">
+    <entry file="file://$PROJECT_DIR$/httpRequests/adding/registration.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="89" selection-end-line="31" selection-end-column="3" />
+        <state relative-caret-position="315">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/adding/status.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/deletion/bonus.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/status_changes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/deletion/cards.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/deletion/bonus.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/bonus_rules">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/editing/cards.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/editing/cards.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/show/bonus.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="95" selection-end-line="17" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1641,66 +1654,131 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/show/cards.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/show/holidays.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2019-04-18T020925.200.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/show/noCardsOperations.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/show/operators.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/show/percentage.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/show/status.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2019-04-18T021148.200.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/show/turnover.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/incomeSeason.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/loyaltyShare.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="true" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/period.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/topManagers.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/totals.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="3" lean-forward="true" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/cards">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#461#1550#0#PHP" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/function.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/unaddressed_operations.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_3.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="55" selection-start-column="55" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_4.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="55" selection-start-column="55" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/console_5.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="55" selection-start-column="55" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/adding/noCardsOperations.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/adding/noCardsOperations.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://483fe1a6-8e1c-429c-9dc8-6984a2cc06fd/schema/YABS/table/unaddressed_operations">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+        <state relative-caret-position="90">
+          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="67" />
         </state>
       </provider>
     </entry>

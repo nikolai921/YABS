@@ -2,6 +2,10 @@
 
 declare(strict_types=1);
 
+/**
+ * Подключение к БД и установка набора символов
+ */
+
 $link = mysqli_connect('localhost', 'stud0201', 'Asdfg13579', 'YABS');
 
 if (!mysqli_set_charset($link, "utf8")) {
@@ -13,13 +17,20 @@ if (!mysqli_set_charset($link, "utf8")) {
 
 require_once 'function.php';
 
+/**
+ * Получаем метод запроса и разбираем URL
+ */
+
+
 $method = $_SERVER['REQUEST_METHOD'];
 
 $urls = parsUrl();
 
-//  Совокупные параметры
+/**
+ * Получаем набор параметров переданных в массиве $_REQUEST
+ */
 
-$operationParameters = [
+$Parameters = [
     'operatorsId' => '',
     'scopeOperation' => $_REQUEST['scopeOperation'],
     'bonusAmount' => $_REQUEST['bonusAmount'],
@@ -42,23 +53,33 @@ $operationParameters = [
     'nameOperators' => $_REQUEST['nameOperators'],
     'percentage' => $_REQUEST['percentage'],
     'status' => $_REQUEST['status'],
-    'accessLevel' => $_REQUEST['accessLevel']
+    'accessLevel' => $_REQUEST['accessLevel'],
+    'intervalStart' => $_REQUEST['intervalStart'],
+    'intervalEnd' => $_REQUEST['intervalEnd'],
 ];
-print_r($_GET);
 
+/**
+ * Производим проверку входных параметров на валидность
+ */
+
+$operationParameters = checkParameters($Parameters);
 
 $authorizationOperator = operatorAuthorization($link);
 
 $operationParameters['operatorsId'] = $authorizationOperator;
 
+/**
+ * Производим загрузку и запуск основной функции обработки запроса
+ */
+
 if (!empty($authorizationOperator)) {
     $bodyRequest = getFormData($method);
 
     require_once 'routers/' . $urls[0] . '/' . $urls[1] . '.php';
-    echo '<prev>';
+
     echo route($operationParameters, $link, $method);
-    echo '</prev>';
 }
+
 
 
 

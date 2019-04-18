@@ -30,14 +30,14 @@ SQL;
     $dataCards = mysqli_fetch_assoc($resultCards);
     $cardsId = $dataCards['id'];
 
-    // Добавление процента скидки в таблицы percentage_changes
+    // Добавление status в таблицы percentage_changes
     $insertStatus = <<< SQL
         INSERT INTO status_changes (operators_id, cards_id, status_changes)
         VALUES ('$operatorsId', '$cardsId', '$status')
 SQL;
     $result = mysqli_query($link, $insertStatus) or die(mysqli_error($link));
 
-    // Изменение процента скидки в таблицы cards
+    // Изменение status в таблицы cards
     $insertCards = <<< SQL
         UPDATE cards 
         SET status='$status'

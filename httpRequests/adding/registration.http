@@ -6,7 +6,7 @@
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
 POST http://delta.rarus-crimea.ru/adding/registration
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
@@ -24,7 +24,7 @@ Content-Disposition: form-data; name="telephone"
 --WebAppBoundary
 Content-Disposition: form-data; name="humanSex"
 
-mane
+male
 --WebAppBoundary--
 
 --WebAppBoundary

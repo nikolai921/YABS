@@ -5,8 +5,8 @@
 # * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
-POST http://delta.rarus-crimea.ru/editing/cards/33045033
-Authorization: Basic bWFuYWdlck1vc2NvdzoyNTM2Mzcy
+POST http://delta.rarus-crimea.ru/editing/cards/79786453421
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
@@ -18,7 +18,7 @@ telephone
 --WebAppBoundary
 Content-Disposition: form-data; name="number"
 
-343
+77987758247
 --WebAppBoundary--
 
 --WebAppBoundary
@@ -30,7 +30,7 @@ Content-Disposition: form-data; name="owner"
 --WebAppBoundary
 Content-Disposition: form-data; name="telephone"
 
-33045033
+79786453421
 --WebAppBoundary--
 
 --WebAppBoundary
@@ -50,7 +50,6 @@ Content-Disposition: form-data; name="birthdayMonth"
 
 01
 --WebAppBoundary--
-
 Content-Disposition: form-data; name="birthdayYear"
 
 1990
