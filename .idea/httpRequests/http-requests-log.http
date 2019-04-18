@@ -2,6 +2,62 @@ GET http://delta.rarus-crimea.ru/statistics/totals
 Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
 Accept: application/json
 
+<> 2019-04-18T052343.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/statistics/topManagers
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
+Accept: application/json
+
+<> 2019-04-18T052326.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/statistics/period/&intervalStart=2019-01-01&intervalEnd=2019-04-12
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
+Accept: application/json
+
+<> 2019-04-18T052306.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/statistics/loyaltyShare
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
+Accept: application/json
+
+<> 2019-04-18T052230.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/statistics/incomeSeason
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
+Accept: application/json
+
+<> 2019-04-18T052221.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/statistics/cardsRepot/9523138887736112/&identifier=numberCards
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
+Accept: application/json
+
+<> 2019-04-18T051824.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/statistics/cardsRepot/9523138887736112/&identifier=numberCards
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
+Accept: application/json
+
+<> 2019-04-18T050910.200.html
+
+###
+
+GET http://delta.rarus-crimea.ru/statistics/totals
+Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
+Accept: application/json
+
 <> 2019-04-18T021824.200.html
 
 ###
@@ -681,232 +737,6 @@ Content-Disposition: form-data; name="status"
 --WebAppBoundary--
 
 <> 2019-04-18T012900.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/status
-Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="number"
-
-5815398558405300
---WebAppBoundary
-Content-Disposition: form-data; name="identifier"
-
-numberCards
---WebAppBoundary
-Content-Disposition: form-data; name="status"
-
-0
---WebAppBoundary--
-
-<> 2019-04-18T012314.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/registration
-Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="owner"
-
-Фролов Алексей Викторович
---WebAppBoundary
-Content-Disposition: form-data; name="telephone"
-
-79780010010
---WebAppBoundary
-Content-Disposition: form-data; name="humanSex"
-
-male
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayDay"
-
-04
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayMonth"
-
-10
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayYear"
-
-1990
---WebAppBoundary--
-
-<> 2019-04-18T010003.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/registration
-Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="owner"
-
-Фролов Алексей Викторович
---WebAppBoundary
-Content-Disposition: form-data; name="telephone"
-
-79780010010
---WebAppBoundary
-Content-Disposition: form-data; name="humanSex"
-
-male
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayDay"
-
-04
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayMonth"
-
-10
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayYear"
-
-1990
---WebAppBoundary--
-
-<> 2019-04-18T125943.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/registration
-Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="owner"
-
-Фролов Алексей Викторович
---WebAppBoundary
-Content-Disposition: form-data; name="telephone"
-
-89780010010
---WebAppBoundary
-Content-Disposition: form-data; name="humanSex"
-
-male
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayDay"
-
-04
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayMonth"
-
-10
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayYear"
-
-1990
---WebAppBoundary--
-
-<> 2019-04-18T125936.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/registration
-Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="owner"
-
-Фролов Алексей Викторович
---WebAppBoundary
-Content-Disposition: form-data; name="telephone"
-
-79780010010
---WebAppBoundary
-Content-Disposition: form-data; name="humanSex"
-
-male
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayDay"
-
-04
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayMonth"
-
-10
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayYear"
-
-199043
---WebAppBoundary--
-
-<> 2019-04-18T125917.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/registration
-Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="owner"
-
-Фролов Алексей Викторович
---WebAppBoundary
-Content-Disposition: form-data; name="telephone"
-
-79780010010
---WebAppBoundary
-Content-Disposition: form-data; name="humanSex"
-
-male
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayDay"
-
-04
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayMonth"
-
-1034
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayYear"
-
-1990
---WebAppBoundary--
-
-<> 2019-04-18T125910.200.html
-
-###
-
-POST http://delta.rarus-crimea.ru/adding/registration
-Authorization: Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="owner"
-
-Фролов Алексей Викторович
---WebAppBoundary
-Content-Disposition: form-data; name="telephone"
-
-79780010010
---WebAppBoundary
-Content-Disposition: form-data; name="humanSex"
-
-male
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayDay"
-
-0434
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayMonth"
-
-10
---WebAppBoundary
-Content-Disposition: form-data; name="birthdayYear"
-
-1990
---WebAppBoundary--
-
-<> 2019-04-18T125902.200.html
 
 ###
 

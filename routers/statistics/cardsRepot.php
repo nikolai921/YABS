@@ -28,6 +28,14 @@ SQL;
 
         $cardsId = $dataCards['id'];
 
+        $selectTotal = <<<SQL
+        SELECT sum(scope_operation) as scope, sum(actual_receipt) as actual, sum(bonus_amount) as bonusAmount, sum(bonus_accrual) as bonusAccural  
+        FROM turnover_operations
+        WHERE cards_id='$cardsId'
+SQL;
+        $resultTotal = mysqli_query($link, $selectTotal) or die(mysqli_error($link));
+        $dataTotal = mysqli_fetch_assoc($resultTotal);
+
         $selectHistory = <<<SQL
         SELECT scope_operation, actual_receipt, bonus_amount, bonus_accrual  
         FROM turnover_operations
@@ -49,6 +57,13 @@ SQL;
 
         $cardsId = $dataCards['id'];
 
+        $selectTotal = <<<SQL
+        SELECT sum(scope_operation) as scope, sum(actual_receipt) as actual, sum(bonus_amount) as bonusAmount, sum(bonus_accrual) as bonusAccural  
+        FROM turnover_operations
+        WHERE cards_id='$cardsId'
+SQL;
+        $resultTotal = mysqli_query($link, $selectTotal) or die(mysqli_error($link));
+        $dataTotal = mysqli_fetch_assoc($resultTotal);
 
         $selectHistory = <<<SQL
         SELECT scope_operation, actual_receipt, bonus_amount, bonus_accrual  
@@ -63,6 +78,7 @@ SQL;
     return json_encode([
         'method' => $method,
         'dataCards' => $dataCards,
+        'dataTotal' => $dataTotal,
         'dataHistory' => $dataHistory
     ]);
 

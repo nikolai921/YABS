@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44c6c2ac-f692-4f82-b294-2f61b15c7f04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/adding/bonus.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/adding/bonus.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/adding/holidays.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/adding/holidays.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/adding/noCardsOperations.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/adding/noCardsOperations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/adding/operations.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/adding/operations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/adding/operators.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/adding/operators.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/adding/percentage.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/adding/percentage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/adding/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/adding/registration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/adding/status.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/adding/status.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/deletion/bonus.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/deletion/bonus.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/deletion/cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/deletion/cards.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/deletion/holidays.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/deletion/holidays.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/deletion/noCardsOperations.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/deletion/noCardsOperations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/deletion/operators.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/deletion/operators.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/deletion/percentage.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/deletion/percentage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/deletion/status.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/deletion/status.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/deletion/turnover.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/deletion/turnover.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/editing/cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/editing/cards.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/show/bonus.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/show/bonus.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/show/cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/show/cards.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/show/holidays.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/show/holidays.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/show/noCardsOperations.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/show/noCardsOperations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/show/operators.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/show/operators.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/show/percentage.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/show/percentage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/show/status.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/show/status.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/show/turnover.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/show/turnover.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-04-18T125902.200.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/routers/statistics/cardsRepot.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/statistics/cardsRepot.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/statistics/incomeSeason.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/statistics/incomeSeason.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/statistics/loyaltyShare.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/statistics/loyaltyShare.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/statistics/period.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/statistics/period.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/statistics/topManagers.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/statistics/topManagers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/statistics/totals.php" beforeDir="false" afterPath="$PROJECT_DIR$/routers/statistics/totals.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,11 +51,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/routers/statistics/totals.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="58" />
+            <state relative-caret-position="165">
+              <caret line="11" column="3" selection-end-line="11" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routers/statistics/cardsRepot.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -191,12 +170,12 @@
         <option value="$PROJECT_DIR$/routers/show/percentage.php" />
         <option value="$PROJECT_DIR$/routers/show/status.php" />
         <option value="$PROJECT_DIR$/routers/show/turnover.php" />
-        <option value="$PROJECT_DIR$/routers/statistics/cardsRepot.php" />
         <option value="$PROJECT_DIR$/routers/statistics/incomeSeason.php" />
         <option value="$PROJECT_DIR$/routers/statistics/loyaltyShare.php" />
         <option value="$PROJECT_DIR$/routers/statistics/period.php" />
         <option value="$PROJECT_DIR$/routers/statistics/topManagers.php" />
         <option value="$PROJECT_DIR$/routers/statistics/totals.php" />
+        <option value="$PROJECT_DIR$/routers/statistics/cardsRepot.php" />
       </list>
     </option>
   </component>
@@ -219,6 +198,17 @@
             <path>
               <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
               <item name="YABS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YABS" type="462c0819:PsiDirectoryNode" />
+              <item name="httpRequests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YABS" type="462c0819:PsiDirectoryNode" />
+              <item name="httpRequests" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
@@ -268,6 +258,25 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/cardsRepot/9523138887736112/&amp;identifier=numberCards" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/totals" />
@@ -347,25 +356,6 @@
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/incomeSeason" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="Basic 0JzQsNC70YvRiNC10LJhINCc0LjQu9Cw0L3QsCDQkNGA0YLRg9GA0L7QstC90LA6MjUzNjM3Mg==" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://delta.rarus-crimea.ru/statistics/cardsRepot/9523138887736112/&amp;identifier=numberCards" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
@@ -1276,8 +1266,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.totals#1">
-    <configuration name="incomeSeason#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/incomeSeason.http">
+  <component name="RunManager" selected="HTTP Request.cardsRepot#1">
+    <configuration name="cardsRepot#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http">
       <method v="2" />
     </configuration>
     <configuration name="loyaltyShare#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/loyaltyShare.http">
@@ -1294,11 +1284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.cardsRepot#1" />
         <item itemvalue="HTTP Request.totals#1" />
         <item itemvalue="HTTP Request.topManagers#1" />
         <item itemvalue="HTTP Request.period#1" />
         <item itemvalue="HTTP Request.loyaltyShare#1" />
-        <item itemvalue="HTTP Request.incomeSeason#1" />
       </list>
     </recent_temporary>
   </component>
@@ -1321,12 +1311,12 @@
       <workItem from="1555480940721" duration="1113000" />
       <workItem from="1555482114923" duration="5528000" />
       <workItem from="1555488007284" duration="21764000" />
-      <workItem from="1555566680547" duration="28134000" />
+      <workItem from="1555566680547" duration="28793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192529000" />
+    <option name="totallyTimeSpent" value="193188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -1337,7 +1327,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40228012" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40228012" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1346,7 +1336,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3534202" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3534202" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.3306189" />
       <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1425,13 +1415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1669,13 +1652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routers/statistics/cardsRepot.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routers/statistics/incomeSeason.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1706,8 +1682,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routers/statistics/totals.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="58" />
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/statistics/cardsRepot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
