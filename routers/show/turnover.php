@@ -1,6 +1,13 @@
 <?php
-
-
+/**
+ * Производит реализацию показа данных переданных запросом, в таблице "оборот по операциям"
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
 function route(array $operationParameters, $link, string $method): string
 {
     $id = mysqli_real_escape_string($link, $operationParameters['id']);

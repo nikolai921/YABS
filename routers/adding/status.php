@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Производит реализацию добавления данных переданных запросом, в таблицу "изменение статуса"
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
 function route(array $operationParameters, $link, string $method): string
 {
     $status = mysqli_real_escape_string($link, $operationParameters['status']);
@@ -8,8 +17,7 @@ function route(array $operationParameters, $link, string $method): string
     $telephone = mysqli_real_escape_string($link, $operationParameters['telephone']);
     $number = mysqli_real_escape_string($link, $operationParameters['number']);
 
-    if($identifier === 'telephone' )
-    {
+    if ($identifier === 'telephone') {
         $selectCards = <<<SQL
         SELECT id 
         FROM cards
@@ -17,8 +25,7 @@ function route(array $operationParameters, $link, string $method): string
 SQL;
     }
 
-    if($identifier === 'numberCards')
-    {
+    if ($identifier === 'numberCards') {
         $selectCards = <<<SQL
         SELECT id 
         FROM cards
@@ -52,8 +59,6 @@ SQL;
 SQL;
     $resultStatus = mysqli_query($link, $selectStatus) or die(mysqli_error($link));
     $dataStatus = mysqli_fetch_assoc($resultStatus);
-
-
 
     return json_encode([
         'method' => $method,

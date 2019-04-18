@@ -1,5 +1,15 @@
 <?php
 
+/**
+ * Производит реализацию показа отчета сезонному обороту, интервал группировки месяц, используются таблицы:
+ * Оборот операций по карте
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
 function route(array $operationParameters, $link, string $method): string
 {
     $selectCards = <<<SQL

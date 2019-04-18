@@ -1,5 +1,15 @@
 <?php
 
+/**
+ * Производит реализацию показа отчета по основным показателям программы лояльности в заданном периоде времени
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
+
 function route(array $operationParameters, $link, string $method): string
 {
     $intervalStart = mysqli_real_escape_string($link, $operationParameters['intervalStart']);

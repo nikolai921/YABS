@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Производит реализацию удаления данных переданных запросом, из таблицы "изменения процента"
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
 function route(array $operationParameters, $link, string $method): string
 {
     $id = mysqli_real_escape_string($link, $operationParameters['id']);

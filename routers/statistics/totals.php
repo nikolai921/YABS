@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Совокупные показатели деятельности программы лояльности
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
 function route(array $operationParameters, $link, string $method): string
 {
         $selectCards = <<<SQL

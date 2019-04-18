@@ -1,6 +1,15 @@
 <?php
 
-function route(array $operationParameters, $link, string $method) : string
+/**
+ * Производит реализацию добавления данных переданных запросом, в таблицу "правила бонусов"
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
+function route(array $operationParameters, $link, string $method): string
 {
     $turnoverLevel = mysqli_real_escape_string($link, $operationParameters['turnoverLevel']);
     $bonusAmountTable = mysqli_real_escape_string($link, $operationParameters['bonusAmountTable']);
@@ -12,6 +21,7 @@ SQL;
     $result = mysqli_query($link, $insertTurnover) or die(mysqli_error($link));
 
     // Возвращаем id операции
+
     $selectTurnover = <<< SQL
     SELECT MAX(id) as id 
     FROM bonus_rules     
@@ -21,13 +31,14 @@ SQL;
 
     return json_encode([
         'method' => $method,
-        'id' => $dataTurnover
+        'id' => $dataTurnover,
     ]);
 
     // Возвращаем ошибку
+
     header('HTTP/1.0 400 Bad Request');
-    echo json_encode(array(
-        'error' => 'Bad Request'
-    ));
+    echo json_encode([
+        'error' => 'Bad Request',
+    ]);
 
 }

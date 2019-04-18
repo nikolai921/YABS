@@ -1,5 +1,15 @@
 <?php
 
+/**
+ * Производит реализацию добавления данных переданных запросом, в таблицу "операторы"
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ * @throws \Exception
+ */
 function route(array $operationParameters, $link, string $method) : string
 {
     $nameOperators = mysqli_real_escape_string($link, $operationParameters['nameOperators']);

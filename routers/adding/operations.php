@@ -1,8 +1,17 @@
 <?php
 
+/**
+ * Производит реализацию добавления данных переданных запросом, в таблицу "оборот по операциям"
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
 function route(array $operationParameters, $link, string $method): string
 {
-    //
+
     $operatorsId = mysqli_real_escape_string($link, $operationParameters['operatorsId']);
     $identifier = mysqli_real_escape_string($link, $operationParameters['identifier']);
     $number = mysqli_real_escape_string($link, $operationParameters['number']);

@@ -1,5 +1,15 @@
 <?php
 
+/**
+ * Производит реализацию добавления данных переданных запросом, в таблицу "карты", т.е. регистрация клиента
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
+
 function route(array $operationParameters, $link, string $method) : string
 {
     $operatorsId = mysqli_real_escape_string($link, $operationParameters['operatorsId']);

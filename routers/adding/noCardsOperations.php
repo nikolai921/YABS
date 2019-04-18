@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Производит реализацию добавления данных переданных запросом, в таблицу "безадресные операции"
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
 function route(array $operationParameters, $link, string $method) : string
 {
     $date = mysqli_real_escape_string($link, $operationParameters['date']);

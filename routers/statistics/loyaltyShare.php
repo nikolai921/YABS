@@ -1,5 +1,18 @@
 <?php
 
+/**
+ * Производит реализацию показа отчета по основным коэффициентам использования программы лояльности,
+ * интервал группировки месяц, используются таблицы:
+ * Оборот операций по карте
+ * Карты
+ * Безадресные операции
+ *
+ * @param array  $operationParameters
+ * @param        $link
+ * @param string $method
+ *
+ * @return string
+ */
 function route(array $operationParameters, $link, string $method): string
 {
     $selectCards = <<<SQL
