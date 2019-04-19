@@ -30,24 +30,39 @@ function route(array $operationParameters, $link, string $method) : string
 
     $number = mt_rand(1000,9999) . mt_rand(1000,9999) . mt_rand(1000,9999) . mt_rand(1000,9999);
 
-    $insertPercentage = <<< SQL
+    $selectCheck = <<< SQL
+    SELECT id 
+    FROM cards  
+    WHERE  telephone='$telephone';  
+SQL;
+    $resultCheck = mysqli_query($link, $selectCheck) or die(mysqli_error($link));
+    $dataCheck = mysqli_fetch_assoc($resultCheck);
+
+    if(empty($dataCheck))
+    {
+        $insertPercentage = <<< SQL
         INSERT INTO cards (owner, telephone, humanSex, birthday, operators_id, number)
         VALUES ('$owner', '$telephone', '$humanSex', '$birthday', '$operatorsId', '$number')
 SQL;
-    $result = mysqli_query($link, $insertPercentage) or die(mysqli_error($link));
+        $result = mysqli_query($link, $insertPercentage) or die(mysqli_error($link));
 
-    // Возвращаем id операции
-    $selectCards = <<< SQL
+        // Возвращаем id операции
+        $selectCards = <<< SQL
     SELECT MAX(id) as id 
     FROM cards     
 SQL;
-    $resultCards = mysqli_query($link, $selectCards) or die(mysqli_error($link));
-    $dataCards = mysqli_fetch_assoc($resultCards);
+        $resultCards = mysqli_query($link, $selectCards) or die(mysqli_error($link));
+        $dataCards = mysqli_fetch_assoc($resultCards);
 
-    return json_encode([
-        'method' => $method,
-        'id' => $dataCards
-    ]);
+        return json_encode([
+            'method' => $method,
+            'id' => $dataCards
+        ]);
+
+    } else
+    {
+        throw new InvalidArgumentException('Клиент с заданным номером телефона уже существует');
+    }
 
     // Возвращаем ошибку
     header('HTTP/1.0 400 Bad Request');
