@@ -115,7 +115,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/httpRequests/statistics/totals.http">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="270">
               <caret line="18" column="3" lean-forward="true" selection-end-line="18" selection-end-column="3" />
             </state>
           </provider>
@@ -231,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="650" />
@@ -250,11 +250,6 @@
             <path>
               <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
               <item name="YABS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YABS" type="462c0819:PsiDirectoryNode" />
-              <item name="httpRequests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1347,22 +1342,22 @@
       <workItem from="1555482114923" duration="5528000" />
       <workItem from="1555488007284" duration="21764000" />
       <workItem from="1555566680547" duration="29958000" />
-      <workItem from="1555653191788" duration="5911000" />
+      <workItem from="1555653191788" duration="6531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200264000" />
+    <option name="totallyTimeSpent" value="200884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15243416" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15243416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40228012" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40228012" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1371,7 +1366,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35179153" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.35179153" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.3306189" />
       <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1711,7 +1706,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/httpRequests/statistics/totals.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="270">
           <caret line="18" column="3" lean-forward="true" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
