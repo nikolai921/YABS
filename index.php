@@ -2,6 +2,24 @@
 
 declare(strict_types=1);
 
+require_once __DIR__ . '/vendor/autoload.php';
+
+use Monolog\Logger;
+use Monolog\Handler\StreamHandler;
+use Monolog\ErrorHandler;
+
+$logger = new Logger('DEBUG LOGGER');
+$logger->pushHandler(new StreamHandler(__DIR__.'/logs/debug/log', Logger::DEBUG));
+$logger->debug('First debug message', array('user' => 'admin', 'time' => date('H:i:s d.m.Y')));
+
+$errorLogger = new Logger('ERROR LOGGER');
+$errorLogger->pushHandler(new StreamHandler(__DIR__.'/logs/error/log', Logger::ERROR));
+ErrorHandler::register($errorLogger);
+
+$infoLogger = new Logger('INFO LOGGER');
+$infoLogger->pushHandler(new StreamHandler(__DIR__.'/logs/info/log', Logger::INFO));
+$infoLogger->info('Login user from dashboard', array('user' => 'admin', 'time' => date('H:i:s d.m.Y')));
+
 /**
  * Подключение к БД и установка набора символов
  */

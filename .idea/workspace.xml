@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44c6c2ac-f692-4f82-b294-2f61b15c7f04" name="Default Changelist" comment="" />
+    <list default="true" id="44c6c2ac-f692-4f82-b294-2f61b15c7f04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/bonus.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/holidays.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/noCardsOperations.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/operations.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/operators.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/percentage.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/registration.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/adding/status.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/bonus.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/cards.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/holidays.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/noCardsOperations.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/operators.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/percentage.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/status.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/deletion/turnover.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/editing/cards.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/bonus.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/cards.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/holidays.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/noCardsOperations.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/operators.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/percentage.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/status.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/show/turnover.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/statistics/cardsRepot.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/statistics/incomeSeason.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/statistics/loyaltyShare.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/statistics/period.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/statistics/topManagers.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpRequests/statistics/totals.http" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +80,20 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#613#1702#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -170,7 +216,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YABS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YABS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1216,6 +1272,18 @@
     <configuration name="incomeSeason#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/incomeSeason.http">
       <method v="2" />
     </configuration>
+    <configuration name="loyaltyShare#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/loyaltyShare.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="period#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/period.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="topManagers#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/topManagers.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="totals#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/httpRequests/statistics/totals.http">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="HTTP Request.totals#1" />
@@ -1245,17 +1313,18 @@
       <workItem from="1555480940721" duration="1113000" />
       <workItem from="1555482114923" duration="5528000" />
       <workItem from="1555488007284" duration="21764000" />
-      <workItem from="1555566680547" duration="29659000" />
+      <workItem from="1555566680547" duration="29958000" />
+      <workItem from="1555653191788" duration="401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194054000" />
+    <option name="totallyTimeSpent" value="194754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1915403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19473264" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1269,7 +1338,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3534202" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35227272" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.3306189" />
       <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1358,23 +1427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1403">
-          <caret line="172" selection-start-line="172" selection-end-line="172" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#461#1550#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routers/adding/bonus.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1414,13 +1466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-285">
           <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/deletion/bonus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="90" />
         </state>
       </provider>
     </entry>
@@ -1466,24 +1511,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routers/adding/operations.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2340">
-          <caret line="156" column="31" lean-forward="true" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routers/deletion/turnover.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="3" column="93" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/editing/cards.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
         </state>
       </provider>
     </entry>
@@ -1631,6 +1662,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="18" column="3" lean-forward="true" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/adding/operations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-428">
+          <caret line="156" column="31" lean-forward="true" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/deletion/bonus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/editing/cards.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728">
+          <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="937">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#613#1702#0#PHP" />
+          </folding>
         </state>
       </provider>
     </entry>
